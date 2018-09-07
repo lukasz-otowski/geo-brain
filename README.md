@@ -1,6 +1,7 @@
 # geo-brain
 
 > A Vue.js and Firebase project
+
 This will be an app where you will can register, use google maps, send comments, and discover interesting scientist.
 
 
