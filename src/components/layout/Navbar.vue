@@ -2,7 +2,7 @@
     <div class="navbar">
         <nav class="deep-purple darken-1">
             <div class="container">
-                <a href="" class="brand-logo left" ></a>
+                <a href="" class="brand-logo left" >Geo-Brain</a>
                 <ul class="right">
                     <li><a href="">Sign up</a></li>
                     <li><a href="">Login</a></li>
