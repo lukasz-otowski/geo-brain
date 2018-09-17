@@ -5,7 +5,7 @@
                 <a href="" class="brand-logo left" >Geo-Brain</a>
                 <ul class="right">
                     <li><router-link :to="{name: 'Signup'}">Sign up</router-link></li>
-                    <li><a href="">Login</a></li>
+                    <li><router-link :to="{name: 'Login'}" >Login</router-link></li>
                     <li><a @click="logout">Logout</a></li>
                 </ul>
             </div>
@@ -34,5 +34,14 @@ export default {
 </script>
 
 <style>
-
+    .login {
+        max-width: 400px;
+        margin-top: 60px;
+    }
+    .login h2 {
+        font-size: 2.4em;
+    }
+    .login .field{
+        margin-bottom: 16px;
+    }
 </style>
